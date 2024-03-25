@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1626296919 source:c:\users\usuario\documents\pio ix 5°\programacion\guia 5\ruleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1626410145 source:c:\users\usuario\documents\pio ix 5°\programacion\trabajos practicos\ruleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1626410145 source:c:\users\usuario\documents\santi\pio ix 5°\programacion\trabajos practicos\ruleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
